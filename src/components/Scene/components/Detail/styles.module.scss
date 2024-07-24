@@ -1,0 +1,12 @@
+@import "src/styles/abstracts/breakpoints.scss";
+@import "src/styles/abstracts/typography.scss";
+@import "src/styles/abstracts/variables.scss";
+
+.container {
+  img {
+    position: absolute;
+
+    width: 120px !important;
+    height: auto;
+  }
+}

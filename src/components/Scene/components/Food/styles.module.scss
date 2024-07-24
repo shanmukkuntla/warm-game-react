@@ -1,0 +1,21 @@
+@import "src/styles/abstracts/breakpoints.scss";
+@import "src/styles/abstracts/typography.scss";
+@import "src/styles/abstracts/variables.scss";
+
+.food {
+  height: auto;
+  position: absolute;
+
+  z-index: 1;
+  aspect-ratio: 1 / 1;
+
+  border-radius: 7px;
+
+  svg {
+    margin-top: -8px;
+    margin-left: -8px;
+
+    height: 45px !important;
+    width: 45px !important;
+  }
+}
