@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/warm-game-react/static/css/main.22dda0bb.css",
-    "main.js": "/warm-game-react/static/js/main.9414b3b5.js",
+    "main.js": "/warm-game-react/static/js/main.ec802b79.js",
     "static/js/787.2f7ae6d9.chunk.js": "/warm-game-react/static/js/787.2f7ae6d9.chunk.js",
     "static/media/fish.png": "/warm-game-react/static/media/fish.10d3256c92e5335ba385.png",
     "static/media/dirt.jpg": "/warm-game-react/static/media/dirt.361334b62a27ec44059b.jpg",
     "index.html": "/warm-game-react/index.html",
     "static/media/snake-face.svg": "/warm-game-react/static/media/snake-face.318cd614f1f3b1999baf.svg",
     "main.22dda0bb.css.map": "/warm-game-react/static/css/main.22dda0bb.css.map",
-    "main.9414b3b5.js.map": "/warm-game-react/static/js/main.9414b3b5.js.map",
+    "main.ec802b79.js.map": "/warm-game-react/static/js/main.ec802b79.js.map",
     "787.2f7ae6d9.chunk.js.map": "/warm-game-react/static/js/787.2f7ae6d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22dda0bb.css",
-    "static/js/main.9414b3b5.js"
+    "static/js/main.ec802b79.js"
   ]
 }
