@@ -14,10 +14,10 @@ export default function StartModal() {
 
   return (
     <div className={styles.container}>
-      <h1>Vamos jogar?</h1>
-      <p>Para se movimentar use as teclas:</p>
+      <h1>let's play ?</h1>
+      <p>Follow the instructions</p>
       <img src={Arrows} width="180" alt="Use as teclas W, A, S, D" />
-      <button onClick={startHandle}>Iniciar</button>
+      <button onClick={startHandle}>Play!</button>
     </div>
   );
 }
